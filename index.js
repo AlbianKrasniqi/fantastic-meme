@@ -1,1 +1,1 @@
-console.log("firSecondt");
+console.log("firstandSecond");
